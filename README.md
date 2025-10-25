@@ -30,5 +30,3 @@ Files included
 - assets/ — CSS and JS for a modern responsive UI
 - secrets/ — storage (must be writable)
 - README.md — this file
-
-Enjoy — and let me know if you want a Dockerfile, custom domain-ready config, or an “email this link” feature.
